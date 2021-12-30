@@ -1,1 +1,1 @@
-# Passneger counter application, practical simple application 
+# Passenger counter application, practical simple application 
