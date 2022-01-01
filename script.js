@@ -1,6 +1,7 @@
 let saveEl = document.getElementById("save-el")
 let countEl = document.getElementById("count-el")
 let count = 0
+// let clearBtn = document.getElementById('clear-btn')
 
 function increment() {
     count += 1
@@ -14,3 +15,7 @@ function save() {
     count = 0
     countEl.textContent = count
 }
+
+// function clear(){
+//     clearBtn.textContent = ''
+// }
